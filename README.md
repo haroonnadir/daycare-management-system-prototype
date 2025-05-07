@@ -1,5 +1,1 @@
-
 daycare-management-system-prototype
-.
-.
-.
